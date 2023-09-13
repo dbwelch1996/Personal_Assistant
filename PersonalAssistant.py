@@ -5,7 +5,7 @@ import config
 openai.api_key = config.API_KEY
 
 
-conversations =  [{"role": "system", "content": "You are a helpful assistant who speaks like donald trump."},
+conversations =  [{"role": "system", "content": "You are a helpful assistant who speaks like spongebob"},
 
 ]
 
